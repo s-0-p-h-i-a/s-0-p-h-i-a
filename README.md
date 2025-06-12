@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @s-0-p-h-i-a
-- 👀 I’m interested in maths, programming, logic, and sensors in embedded systems
-- 🌱 I’m currently learning C++ and Arduino Uno
+**👋 Hi, I’m @s-0-p-h-i-a**
+- 👀 Interested in maths, programming, logic, and sensors in embedded systems
+- 🌱 Currently learning C++ and Arduino Uno
 
-## 🚧 Currently Working On
+**🚧 Currently Working On**
 - 🛠 Zodiac Calculator v2.1 -- debugging input validation structure
 - 🏋🏻‍♀️ Fitness Tracker v2.2 -- optimising input + input validation logic
 - 📚 C++ practice projects

@@ -6,6 +6,7 @@
 
 **🆕 Latest**
 - 🌙 Zodiac Calculator v2.1 -- debugged input validation structure
+- 🏋🏻‍♀️ Fitness Tracker v2.1 -- added all complete versions so far
 
 ---
 

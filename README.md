@@ -2,8 +2,10 @@
 - 👀 Interested in maths, programming, logic, and sensors in embedded systems
 - 🌱 Currently learning C++ and Arduino Uno
 
+**🆕 Latest**
+- 🌙 Zodiac Calculator v2.1 -- debugged input validation structure
+
 **🚧 Currently Working On**
-- 🛠 Zodiac Calculator v2.1 -- debugging input validation structure
 - 🏋🏻‍♀️ Fitness Tracker v2.2 -- optimising input + input validation logic
 - 📚 C++ practice projects
 - 🕹️ First Arduino projects

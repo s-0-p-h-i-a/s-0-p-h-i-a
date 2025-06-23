@@ -14,7 +14,13 @@
 **🚧 Currently Working On**
 - 🏋🏻‍♀️ Fitness Tracker v2.2: optimising input, new input validation + error handling logic
 - 🕹️ First Arduino project: choose LED via serial input
-- 📚 C++ practice projects
+- 📚 C++ mini practice programs repo
+
+---
+
+**🛠️ Projects**
+- 🏋🏻‍♀️ [Fitness Tracker](https://github.com/s-0-p-h-i-a/Fitness_Tracker): a console app that calculates zodiac signs from user birthdates
+- 🌙 [Zodiac Calculator](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): a console app that tracks workouts over 4 weeks and gives feedback based on frequency
 
 <!--- See my pinned repositories for ongoing projects!
 

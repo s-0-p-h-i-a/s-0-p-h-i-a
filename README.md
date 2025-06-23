@@ -11,13 +11,12 @@ This profile contains:
 ---
 
 **🆕 Latest**
+- 🏋🏻‍♀️ Fitness Tracker v2.2: improved input structure, stronger input validation and error handling logic
 - 🌙 Zodiac Calculator v2.1: debugged input validation structure
-- 🏋🏻‍♀️ Fitness Tracker v2.1: added all complete versions so far
 
 ---
 
 **🚧 Currently Working On**
-- 🏋🏻‍♀️ Fitness Tracker v2.2: optimising input, new input validation + error handling logic
 - 🕹️ First Arduino project: choose LED via serial input
 - 📚 C++ mini practice programs repo
 

@@ -1,19 +1,20 @@
 **👋 Hi, I’m @s-0-p-h-i-a**
 - 👀 Interested in maths, programming, logic, and sensors in embedded systems
-- 🌱 Currently learning C++ and Arduino Uno
+- 📖 Maths and CS B.Sc. student
+- 🌱 Currently learning: C++, Arduino Uno, logic gates & circuits basics
 
 ---
 
 **🆕 Latest**
-- 🌙 Zodiac Calculator v2.1 -- debugged input validation structure
-- 🏋🏻‍♀️ Fitness Tracker v2.1 -- added all complete versions so far
+- 🌙 Zodiac Calculator v2.1: debugged input validation structure
+- 🏋🏻‍♀️ Fitness Tracker v2.1: added all complete versions so far
 
 ---
 
 **🚧 Currently Working On**
-- 🏋🏻‍♀️ Fitness Tracker v2.2 -- optimising input + input validation logic
+- 🏋🏻‍♀️ Fitness Tracker v2.2: optimising input, new input validation + error handling logic
+- 🕹️ First Arduino project: choose LED via serial input
 - 📚 C++ practice projects
-- 🕹️ First Arduino projects
 
 <!--- See my pinned repositories for ongoing projects!
 

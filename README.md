@@ -5,19 +5,19 @@
 
 This profile contains:
 - Repos for C++ projects I create as part of my (re)learning process. New versions are added as I explore new topics or refine older code
-- _(Upcoming)_ Beginner Arduino projects as a first step toward embedded systems
+- Beginner Arduino projects repo as a first step toward embedded systems
 - _(Upcoming)_ A collection of mini C++ practice programs, each with small assignments and solutions for learners
 
 ---
 
 **🆕 Latest**
+- 🕹️ First Arduino project: choose LED via serial input
 - 🏋🏻‍♀️ Fitness Tracker v2.2: improved input structure, stronger input validation and error handling logic
 - 🌙 Zodiac Calculator v2.1: debugged input validation structure
 
 ---
 
 **🚧 Currently Working On**
-- 🕹️ First Arduino project: choose LED via serial input
 - 📚 C++ mini practice programs repo
 
 ---
@@ -25,6 +25,7 @@ This profile contains:
 **🛠️ Projects**
 - 🏋🏻‍♀️ [Fitness Tracker](https://github.com/s-0-p-h-i-a/Fitness_Tracker): a console app that calculates zodiac signs from user birthdates
 - 🌙 [Zodiac Calculator](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): a console app that tracks workouts over 4 weeks and gives feedback based on frequency
+- 🕹️ [Arduino Practice Projects](https://github.com/s-0-p-h-i-a/Arduino_Practice): small beginner projects to get started with microcontrollers
 
 <!--- See my pinned repositories for ongoing projects!
 

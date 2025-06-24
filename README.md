@@ -19,6 +19,7 @@ This profile contains:
 
 **🚧 Currently Working On**
 - 🕹️ Arduino project circuit diagram + demo video
+- 📝 Dev Diaries containing raw notes for each project
 - 📚 C++ mini practice programs repo
 
 ---

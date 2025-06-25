@@ -11,14 +11,14 @@ This profile contains:
 ---
 
 **🆕 Latest**
-- 🕹️ First Arduino project: choose LED via serial input
+- 🕹️ Arduino choose LED project: added wiring + circuit diagrams and Tinkercad simulation link
 - 🏋🏻‍♀️ Fitness Tracker v2.2: improved input structure, stronger input validation and error handling logic
 - 🌙 Zodiac Calculator v2.1: debugged input validation structure
 
 ---
 
 **🚧 Currently Working On**
-- 🕹️ Arduino project circuit diagram + demo video
+- 🕹️ Arduino choose LED project demo video
 - 📝 Dev Diaries containing raw notes for each project
 - 📚 C++ mini practice programs repo
 

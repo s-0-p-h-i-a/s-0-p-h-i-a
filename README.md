@@ -18,6 +18,8 @@ This profile contains:
 ---
 
 **🚧 Currently Working On**
+- 🌙 Zodiac Calculator v3.0: new refactor introducing functions and improved input validation
+- 🕹️ Arduino sensor projects documentation
 - 🕹️ Arduino choose LED project demo video
 - 📝 Dev Diaries containing raw notes for each project
 - 📚 C++ mini practice programs repo

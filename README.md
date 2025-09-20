@@ -10,7 +10,7 @@ This profile contains:
 ---
 
 **🆕 Latest**
-- 🌙 [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): new refactor introducing functions and improved input validation
+- 🌙 [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
 - 🕹️ [Arduino choose LED project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added wiring + circuit diagrams and Tinkercad simulation link
 - 🏋🏻‍♀️ [Fitness Tracker v2.2](https://github.com/s-0-p-h-i-a/Fitness_Tracker): improved input structure, stronger input validation and error handling logic
 

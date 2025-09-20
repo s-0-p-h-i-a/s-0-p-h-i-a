@@ -1,28 +1,25 @@
 **👋 Hi, I’m @s-0-p-h-i-a**
-- 👀 Interested in maths, programming, logic, and sensors in embedded systems
-- 📖 Maths and CS B.Sc. student
-- 🌱 Currently learning: C++, Arduino Uno, logic gates & circuits basics
+- 👀 Interested in: maths, programming, logic, sensors, automotive systems
+- 📖 Maths and CS B.Sc. student specialising in microprocessors, logic and embedded systems
+- 🌱 Currently self-learning: C++, Arduino Uno
 
 This profile contains:
 - Repos for C++ projects I create as part of my (re)learning process. New versions are added as I explore new topics or refine older code
 - Beginner Arduino projects repo as a first step toward embedded systems
-- _(Upcoming)_ A collection of mini C++ practice programs, each with small assignments and solutions for learners
 
 ---
 
 **🆕 Latest**
-- 🕹️ Arduino choose LED project: added wiring + circuit diagrams and Tinkercad simulation link
-- 🏋🏻‍♀️ Fitness Tracker v2.2: improved input structure, stronger input validation and error handling logic
-- 🌙 Zodiac Calculator v2.1: debugged input validation structure
+- 🌙 [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): new refactor introducing functions and improved input validation
+- 🕹️ [Arduino choose LED project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added wiring + circuit diagrams and Tinkercad simulation link
+- 🏋🏻‍♀️ [Fitness Tracker v2.2](https://github.com/s-0-p-h-i-a/Fitness_Tracker): improved input structure, stronger input validation and error handling logic
 
 ---
 
-**🚧 Currently Working On**
-- 🌙 Zodiac Calculator v3.0: new refactor introducing functions and improved input validation
+**🚧 Currently Working On / Planned**
 - 🕹️ Arduino sensor projects documentation
-- 🕹️ Arduino choose LED project demo video
-- 📝 Dev Diaries containing raw notes for each project
-- 📚 C++ mini practice programs repo
+- 🏋🏻‍♀️ Fitness Tracker: refactor introducing functions
+- 🌙 Zodiac Calculator: introduce arrays
 
 ---
 

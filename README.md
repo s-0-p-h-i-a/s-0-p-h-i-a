@@ -10,14 +10,15 @@ This profile contains:
 ---
 
 **🆕 Latest**
+- 🕹️ [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added code + demo GIF + documentation
+- 🕹️ [Arduino choose LED (2 buttons) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added demo GIF
 - 🌙 [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
-- 🕹️ [Arduino choose LED project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added wiring + circuit diagrams and Tinkercad simulation link
 - 🏋🏻‍♀️ [Fitness Tracker v2.2](https://github.com/s-0-p-h-i-a/Fitness_Tracker): improved input structure, stronger input validation and error handling logic
 
 ---
 
 **🚧 Currently Working On / Planned**
-- 🕹️ Arduino sensor projects documentation
+- 🕹️ Arduino photoresistor + button project: diagram and schematic
 - 🏋🏻‍♀️ Fitness Tracker: refactor introducing functions
 - 🌙 Zodiac Calculator: introduce arrays
 

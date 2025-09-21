@@ -1,7 +1,7 @@
-**👋 Hi, I’m @s-0-p-h-i-a**
-- 👀 Interested in: maths, programming, logic, sensors, automotive systems
-- 📖 Maths and CS B.Sc. student specialising in microprocessors, logic and embedded systems
-- 🌱 Currently self-learning: C++, Arduino Uno
+**Hi, I’m @s-0-p-h-i-a**
+- Interested in: maths, programming, logic, sensors, automotive systems
+- Maths and CS B.Sc. student specialising in microprocessors, logic and embedded systems
+- Currently self-learning: C++, Arduino Uno
 
 This profile contains:
 - Repos for C++ projects I create as part of my (re)learning process. New versions are added as I explore new topics or refine older code
@@ -10,16 +10,16 @@ This profile contains:
 ---
 
 **🆕 Latest**
+- 🏋🏻‍♀️ [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): new refactor implementing functions, improved input validation and flow control
 - 🕹️ [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added code + demo GIF + documentation
 - 🕹️ [Arduino choose LED (2 buttons) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added demo GIF
 - 🌙 [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
-- 🏋🏻‍♀️ [Fitness Tracker v2.2](https://github.com/s-0-p-h-i-a/Fitness_Tracker): improved input structure, stronger input validation and error handling logic
 
 ---
 
 **🚧 Currently Working On / Planned**
-- 🕹️ Arduino photoresistor + button project: diagram and schematic
-- 🏋🏻‍♀️ Fitness Tracker: refactor introducing functions
+- 🕹️ Arduino photoresistor + button project: create diagram and schematic
+- 🏋🏻‍♀️ Fitness Tracker v3.0: create README + dev log
 - 🌙 Zodiac Calculator: introduce arrays
 
 ---

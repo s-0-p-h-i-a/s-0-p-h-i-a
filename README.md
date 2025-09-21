@@ -19,7 +19,7 @@ This profile contains:
 
 **🚧 Currently Working On / Planned**
 - 🕹️ Arduino photoresistor + button project: create diagram and schematic
-- 🏋🏻‍♀️ Fitness Tracker v3.0: create README + dev log
+- 🏋🏻‍♀️ Fitness Tracker: create v3.0 README + dev log, update repo README
 - 🌙 Zodiac Calculator: introduce arrays
 
 ---

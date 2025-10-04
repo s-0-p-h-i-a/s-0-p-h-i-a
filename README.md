@@ -10,16 +10,16 @@ This profile contains:
 ---
 
 **🆕 Latest**
-- [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): new refactor implementing functions, improved input validation and flow control
-- [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added code + demo GIF + documentation
+- [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added Digital Logic folder with combinational circuit simulation and boolean function analysis
+- [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): added README and dev log
 - [Arduino choose LED (2 buttons) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added demo GIF
 - [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
 
 ---
 
 **🚧 Currently Working On / Planned**
-- Arduino photoresistor + button project: create diagram and schematic
-- Fitness Tracker: create v3.0 README + dev log, update repo README
+- Arduino photoresistor + button project: create diagram and schematic, finish documenting function analysis
+- Fitness Tracker: introduce arrays
 - Zodiac Calculator: introduce arrays
 
 ---

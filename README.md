@@ -9,22 +9,22 @@ This profile contains:
 
 ---
 
-**🆕 Latest**
-- [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added Digital Logic folder with combinational circuit simulation and boolean function analysis
+**Latest**
+- [Arduino RGB + photoresistors + buttons project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR%2BBUTTONS): added first RGB LED project
+- [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor): added Digital Logic folder with combinational circuit simulation and boolean function analysis
 - [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): added README and dev log
-- [Arduino choose LED (2 buttons) project](https://github.com/s-0-p-h-i-a/Arduino_Practice): added demo GIF
 - [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
 
 ---
 
-**🚧 Currently Working On / Planned**
-- Arduino photoresistor + button project: create diagram and schematic, finish documenting function analysis
+**Currently Working On / Planned**
+- Arduino RGB LED project: demo GIF, wiring diagram, schematic, Tinkercad sim
 - Fitness Tracker: introduce arrays
 - Zodiac Calculator: introduce arrays
 
 ---
 
-**🛠️ Projects**
+**Projects**
 - [Fitness Tracker](https://github.com/s-0-p-h-i-a/Fitness_Tracker): a console app that tracks workouts over 4 weeks and gives feedback based on frequency 
 - [Zodiac Calculator](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): a console app that calculates zodiac signs from user birthdates
 - [Arduino Practice Projects](https://github.com/s-0-p-h-i-a/Arduino_Practice): small beginner projects to get started with microcontrollers

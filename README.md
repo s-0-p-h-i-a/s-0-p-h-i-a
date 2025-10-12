@@ -25,7 +25,7 @@ This profile contains:
 
 ---
 
-**Projects**
+**Repos**
 - [Fitness Tracker](https://github.com/s-0-p-h-i-a/Fitness_Tracker): a console app that tracks workouts over 4 weeks and gives feedback based on frequency 
 - [Zodiac Calculator](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): a console app that calculates zodiac signs from user birthdates
 - [Arduino Practice Projects](https://github.com/s-0-p-h-i-a/Arduino_Practice): small beginner projects to get started with microcontrollers

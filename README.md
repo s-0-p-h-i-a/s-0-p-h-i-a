@@ -11,13 +11,14 @@ This profile contains:
 
 **Latest**
 - [Arduino RGB + photoresistors + buttons project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR%2BBUTTONS): added first RGB LED project
-- [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor): added Digital Logic folder with combinational circuit simulation and boolean function analysis
+- [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor): added Digital Logic folder with combinational circuit simulation and start of boolean function analysis
 - [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): added README and dev log
 - [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
 
 ---
 
 **Currently Working On / Planned**
+- Arduino RGB LED project: analog signal processing, PWM LED programming and serial plotter visualisation practice report
 - Arduino RGB LED project: demo GIF, wiring diagram, schematic, Tinkercad sim
 - Fitness Tracker: introduce arrays
 - Zodiac Calculator: introduce arrays

@@ -17,11 +17,10 @@ This profile contains:
 
 ---
 
-**Currently Working On / Planned**
+**Currently Working On**
+- Flywheel RPM reading emulation with Hall sensor and servo motor: proof of concept report incl. code + documentation + diagrams + demo
 - Arduino RGB LED project: analog signal processing, PWM LED programming and serial plotter visualisation practice report
 - Arduino RGB LED project: demo GIF, wiring diagram, schematic, Tinkercad sim
-- Fitness Tracker: introduce arrays
-- Zodiac Calculator: introduce arrays
 
 ---
 

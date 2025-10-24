@@ -8,20 +8,21 @@ This profile contains:
 - Beginner Arduino projects repo as a first step toward embedded systems
 
 ---
+**FEATURED**
+[Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_Photoresistor/Plotter_and_Hysteresis): exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
 
+---
 **Latest**
-- [Arduino RGB + photoresistors + buttons project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR%2BBUTTONS): added Serial Plotter, signal processing and hysteresis experiment folder
-- [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor): added Digital Logic folder with combinational circuit simulation and start of boolean function analysis
+- [Arduino RGB + Photoresistor + Buttons Project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_Photoresistor): added Serial Plotter, signal processing and hysteresis experiment folder
+- [Arduino Choose LED (Photoresistor + Button) Project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor): added demo GIFs, wiring diagram, schematic, Tinkercad sim
 - [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): added README and dev log
 - [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
 
 ---
 
 **Currently Working On**
-- **MAP sensor Wheatstone bridge emulation:** resistors + photoresistor or phototransistor with Serial Plotter voltage reading
+- **MAP sensor Wheatstone bridge emulation:** resistors + photoresistor/phototransistor with Serial Plotter voltage reading
 - **Flywheel RPM reading emulation with Hall sensor and servo motor:** proof of concept report incl. code + documentation + diagrams + demo
-- **Arduino RGB LED project:** analog signal processing, PWM LED programming and serial plotter visualisation practice report
-- **Arduino RGB LED project:** demo GIF, wiring diagram, schematic, Tinkercad sim
 
 ---
 

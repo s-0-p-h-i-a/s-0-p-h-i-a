@@ -9,11 +9,11 @@ This profile contains:
 
 ---
 **FEATURED**
-- [Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_Photoresistor/Plotter_and_Hysteresis): exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
+- [Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis): exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
 
 ---
 **Latest**
-- [Arduino RGB + Photoresistor + Buttons Project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_Photoresistor): added Serial Plotter, signal processing and hysteresis experiment folder
+- [Arduino RGB + Photoresistor + Buttons Project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS): added Serial Plotter, signal processing and hysteresis experiment folder
 - [Arduino Choose LED (Photoresistor + Button) Project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor): added demo GIFs, wiring diagram, schematic, Tinkercad sim
 - [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): added README and dev log
 - [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation

@@ -9,7 +9,7 @@ This profile contains:
 
 ---
 **FEATURED**
-[Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_Photoresistor/Plotter_and_Hysteresis): exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
+- [Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_Photoresistor/Plotter_and_Hysteresis): exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
 
 ---
 **Latest**

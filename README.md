@@ -10,7 +10,7 @@ This profile contains:
 ---
 
 **Latest**
-- [Arduino RGB + photoresistors + buttons project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR%2BBUTTONS): added first RGB LED project
+- [Arduino RGB + photoresistors + buttons project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR%2BBUTTONS): added Serial Plotter, signal processing and hysteresis experiment folder
 - [Arduino choose LED (photoresistor + button) project](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor): added Digital Logic folder with combinational circuit simulation and start of boolean function analysis
 - [Fitness Tracker v3.0](https://github.com/s-0-p-h-i-a/Fitness_Tracker): added README and dev log
 - [Zodiac Calculator v3.0](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): new refactor introducing functions and improved input validation
@@ -18,9 +18,10 @@ This profile contains:
 ---
 
 **Currently Working On**
-- Flywheel RPM reading emulation with Hall sensor and servo motor: proof of concept report incl. code + documentation + diagrams + demo
-- Arduino RGB LED project: analog signal processing, PWM LED programming and serial plotter visualisation practice report
-- Arduino RGB LED project: demo GIF, wiring diagram, schematic, Tinkercad sim
+- **MAP sensor Wheatstone bridge emulation:** resistors + photoresistor or phototransistor with Serial Plotter voltage reading
+- **Flywheel RPM reading emulation with Hall sensor and servo motor:** proof of concept report incl. code + documentation + diagrams + demo
+- **Arduino RGB LED project:** analog signal processing, PWM LED programming and serial plotter visualisation practice report
+- **Arduino RGB LED project:** demo GIF, wiring diagram, schematic, Tinkercad sim
 
 ---
 

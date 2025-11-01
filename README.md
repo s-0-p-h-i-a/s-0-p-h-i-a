@@ -1,6 +1,6 @@
 **Hi, I’m @s-0-p-h-i-a**
-- Interested in: maths, programming, logic, sensors, automotive systems
-- Maths and CS B.Sc. student specialising in microprocessors, logic and embedded systems
+- Interested in: maths, programming, logic, sensors, microcontrollers
+- Maths and CS B.Sc. student specialising in microprocessors and embedded systems
 - Currently self-learning: C++, Arduino Uno, electronics, automotive sensors
 
 This profile contains:
@@ -10,14 +10,15 @@ This profile contains:
 ---
 **FEATURED**
 - [Arduino RGB LED + Photoresistor Experiments:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis) exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
+- [Fitness Tracker v4.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v4) Structural refactor into modular function declaration files
 
 ---
 **Latest**
-- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) code + documentation from initial proof of concept work
+- [Fitness Tracker v4.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v4) Big refactor breaking long main file into main + header and function definition files
+- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Code + documentation from initial proof of concept work
 - [Arduino RGB + Photoresistor + Buttons Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS) Serial Plotter, signal processing and hysteresis experiment folder, including demo GIFs and diagram
-- [Arduino Choose LED (Photoresistor + Button) Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor) demo GIFs, wiring diagram, schematic, Tinkercad sim
-- [Fitness Tracker v3.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker) README and dev log
-- [Zodiac Calculator v3.0:](https://github.com/s-0-p-h-i-a/Zodiac_Calculator) new refactor introducing functions and improved input validation
+- [Arduino Choose LED (Photoresistor + Button) Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor) Demo GIFs, wiring diagram, schematic, Tinkercad sim
+- [Zodiac Calculator v3.0:](https://github.com/s-0-p-h-i-a/Zodiac_Calculator) New refactor introducing functions and improved input validation
 
 ---
 

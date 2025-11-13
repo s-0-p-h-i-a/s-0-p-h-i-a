@@ -9,13 +9,13 @@ This profile contains:
 
 ---
 **FEATURED**
-- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Added detailed power supply debugging + components testing + overall build & test plan
+- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Added detailed power supply debugging + components testing + build & test plan + test script drafts
 - [Arduino RGB LED + Photoresistor Experiments:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis) Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
 - [Fitness Tracker v4.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v4) Structural refactor into modular function declaration files
 
 ---
 **Latest**
-- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Wrote build & test plan, added multimeter and wire splicing support materials to kit
+- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Wrote build & test plan, added multimeter and wire splicing support materials to kit, wrote test script drafts
 - [Fitness Tracker v4.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v4) Big refactor breaking long main file into main + header and function definition files
 - [Arduino RGB + Photoresistor + Buttons Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS) Serial Plotter, signal processing and hysteresis experiment folder, including demo GIFs and diagram
 - [Arduino Choose LED (Photoresistor + Button) Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Choose_LED_Photoresistor) Demo GIFs, wiring diagram, schematic, Tinkercad sim

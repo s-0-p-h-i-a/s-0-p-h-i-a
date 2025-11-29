@@ -11,11 +11,11 @@ This profile contains:
 **FEATURED**
 - [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Flywheel RPM Hall sensor simulation + FSM logic implementation
 - [Arduino RGB LED + Photoresistor Experiments:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis) Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
-- [Fitness Tracker v5.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) First practice in learning C
+- [Fitness Tracker v5:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) First practice in learning C, v5.1 introduces enums
 
 ---
 **Latest**
-- [Fitness Tracker v5.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) Port to C, add arrays to improve modularity
+- [Fitness Tracker v5.1:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5/v5_1) Implement enums and define const variables
 - [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Main program refactor draft implementing state machine and sequential circuit logic
 - [Zodiac Calculator v4.0:](https://github.com/s-0-p-h-i-a/Zodiac_Calculator) Refactor breaking main file into main + support files
 - [Arduino RGB + Photoresistor + Buttons Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS) Serial Plotter, signal processing and hysteresis experiment folder, including demo GIFs and diagram

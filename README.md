@@ -1,21 +1,21 @@
 **Hi, I’m @s-0-p-h-i-a**
-- Interested in: maths, programming, logic, sensors, microcontrollers, automotive systems
-- Maths and CS B.Sc. student specialising in microprocessors and embedded systems
+- Interested in: computer science, maths, logic, sensors, microcontrollers, automotive systems
+- Maths and CS B.Sc. student specialising in embedded systems and microprocessors
 - Currently self-learning: C/C++, Arduino Uno, electronics, automotive sensors
 
 This profile contains:
-- Repos for C++ projects I create as part of my (re)learning process. New versions are added as I explore new topics or refine older code
-- Beginner Arduino and sensor projects as a first step toward working with embedded systems
+- Repos for C/C++ projects I create as part of my (re)learning process. New versions are added as I explore new topics or refine older code
+- Beginner Arduino and sensor projects to learn how to work with embedded systems
 
 ---
 **FEATURED**
-- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Flywheel RPM Hall sensor simulation
+- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Flywheel RPM Hall sensor simulation + FSM logic implementation
 - [Arduino RGB LED + Photoresistor Experiments:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis) Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
-- [Zodiac Calculator v4.0:](https://github.com/s-0-p-h-i-a/Zodiac_Calculator) Structural refactor into modular function declaration files + functions index
+- [Fitness Tracker v5.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) First practice in learning C
 
 ---
 **Latest**
-- [Fitness Tracker v5.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) Refactor in C as a first step in learning C, add arrays to improve modularity
+- [Fitness Tracker v5.0:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) Port to C, add arrays to improve modularity
 - [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Main program refactor draft implementing state machine and sequential circuit logic
 - [Zodiac Calculator v4.0:](https://github.com/s-0-p-h-i-a/Zodiac_Calculator) Refactor breaking main file into main + support files
 - [Arduino RGB + Photoresistor + Buttons Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS) Serial Plotter, signal processing and hysteresis experiment folder, including demo GIFs and diagram
@@ -23,6 +23,7 @@ This profile contains:
 ---
 **Planned:**
 - **Wheatstone Bridge Emulation:** breadboard setup with resistors + sensor and Serial Plotter voltage reading
+- **State Machine Emulation:** using structs to model simple Mealy machine behaviour
 
 ---
 **Repos**

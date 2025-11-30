@@ -11,14 +11,8 @@ This profile contains:
 **FEATURED**
 - [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Flywheel RPM Hall sensor simulation + FSM logic implementation
 - [Arduino RGB LED + Photoresistor Experiments:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis) Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
-- [Fitness Tracker v5:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) First practice in learning C, v5.1 introduces enums
-
----
-**Latest**
-- [Fitness Tracker v5.1:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5/v5_1) Implement enums and define const variables
-- [Flywheel Hall Sensor:](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor) Main program refactor draft implementing state machine and sequential circuit logic
-- [Zodiac Calculator v4.0:](https://github.com/s-0-p-h-i-a/Zodiac_Calculator) Refactor breaking main file into main + support files
-- [Arduino RGB + Photoresistor + Buttons Project:](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS) Serial Plotter, signal processing and hysteresis experiment folder, including demo GIFs and diagram
+- [Fitness Tracker v5:](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5) First practice in learning C
+- [Engine Cycle Simulation:](https://github.com/s-0-p-h-i-a/Engine_Cycle) Abstract Moore state machine based simulation of an inline-4 combustion engine
 
 ---
 **Planned:**
@@ -27,7 +21,8 @@ This profile contains:
 
 ---
 **Repos**
-- [Flywheel Hall Sensor](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor): Flywheel RPM Hall sensor simulation
+- [Engine Cycle](https://github.com/s-0-p-h-i-a/Engine_Cycle): simplified simulation of an inline-4 combustion engine
+- [Flywheel Hall Sensor](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor): flywheel RPM Hall sensor simulation
 - [Arduino Practice Projects](https://github.com/s-0-p-h-i-a/Arduino_Practice): small beginner projects to get started with microcontrollers
 - [Fitness Tracker](https://github.com/s-0-p-h-i-a/Fitness_Tracker): a console app that tracks workouts over 4 weeks and gives feedback based on frequency 
 - [Zodiac Calculator](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): a console app that calculates zodiac signs from user birthdates

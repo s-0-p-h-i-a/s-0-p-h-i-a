@@ -16,6 +16,7 @@ This profile contains:
 
 ---
 **Planned:**
+- **Inline-4 Engine Control Simulation:** progressively merge separately developed cylinder, crankshaft, camshaft modules into a controller for a virtual inline-4 engine
 - **Wheatstone Bridge Emulation:** breadboard setup with resistors + sensor and Serial Plotter voltage reading
 - **State Machine Emulation:** using structs to model simple Mealy machine behaviour
 

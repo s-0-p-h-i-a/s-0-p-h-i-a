@@ -9,10 +9,20 @@ This profile contains:
 
 ---
 **FEATURED**
-- [Flywheel Hall Sensor](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor): WIP Flywheel RPM Hall sensor simulation + FSM logic implementation
-- [ICE Engine Simulations](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations): WIP Simulating cylinder and crankshaft behaviour in Arduino hardware projects and CLI apps, using C and state machine logic
-- [Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis): Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis
-- [Fitness Tracker v5](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5): First practice in learning C
+- [CLI Crankshaft Simulator](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/Inline4_Crankshaft/CLI_Sim):
+
+  CLI visualisation of inline-4 crankshaft movement, using a 'virtual crankshaft' state machine model and custom libraries for state management and output generation.
+
+  First fully functional step towards a composite Arduino-based ICE engine simulation.
+- [Flywheel Hall Sensor](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor):
+
+  WIP Flywheel Hall sensor RPM calculation simulation.
+- [Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis):
+
+  Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis.
+- [Fitness Tracker v5](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5):
+
+  First practice in learning C.
 
 ---
 **Planned:**

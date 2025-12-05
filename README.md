@@ -4,7 +4,7 @@
 - Currently self-learning: C/C++, Arduino Uno, electronics, automotive sensors
 
 This profile contains:
-- Repos for C/C++ projects I create as part of my (re)learning process. New versions are added as I explore new topics or refine older code
+- Repos for C/C++ projects I create as part of my learning process. New versions are added as I explore new topics or refine older code
 - Beginner Arduino and sensor projects to learn how to work with embedded systems
 
 ---

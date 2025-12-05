@@ -9,14 +9,19 @@ This profile contains:
 
 ---
 **FEATURED**
+
+- [LED Cylinder Simulation](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/1_Cylinder):
+
+  LED-based visualisation of a single cylinder moving through the 4-stroke cycle.
+
+- [Flywheel Hall Sensor Circuit](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor):
+
+  WIP Flywheel Hall sensor RPM calculation simulation using Hall sensor, servo motor with magnet disc and control buttons.
+
 - [CLI Crankshaft Simulator](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/Inline4_Crankshaft/CLI_Sim):
 
   CLI visualisation of inline-4 crankshaft movement, using a 'virtual crankshaft' state machine model and custom libraries for state management and output generation.
-
-  First fully functional step towards a composite Arduino-based ICE engine simulation.
-- [Flywheel Hall Sensor](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor):
-
-  WIP Flywheel Hall sensor RPM calculation simulation.
+  
 - [Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis):
 
   Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis.

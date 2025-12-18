@@ -1,11 +1,11 @@
 **Hi, I’m @s-0-p-h-i-a**
-- Interested in: computer science, maths, logic, sensors, microcontrollers, automotive systems
+- Interested in: computer science, maths, logic, sensors, microcontrollers, embedded automotive systems
 - Maths and CS B.Sc. student specialising in embedded systems and microprocessors
-- Currently self-learning: C/C++, Arduino Uno, electronics, automotive sensors
+- Currently self-learning: C/C++, Arduino Uno, electronics, sensors
 
 This profile contains:
 - Repos for C/C++ projects I create as part of my learning process. New versions are added as I explore new topics or refine older code
-- Beginner Arduino and sensor projects to learn how to work with embedded systems
+- Arduino and sensor projects to learn how to build embedded systems
 
 ---
 **FEATURED**

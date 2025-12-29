@@ -10,7 +10,7 @@ This profile contains:
 ---
 **FEATURED**
 
-- [ICE Engine Mini Prototype](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/1_Cylinder):
+- [ICE Engine Mini Prototype](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/Full_Engine):
 
   ECU firmware-inspired ICE engine simulation prototype, ongoing project progressively merging engine sub-system modules.
   

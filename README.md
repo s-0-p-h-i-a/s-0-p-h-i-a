@@ -10,31 +10,24 @@ This profile contains:
 ---
 **FEATURED**
 
-- [LED Cylinder Simulation](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/1_Cylinder):
+- [ICE Engine Mini Prototype](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/1_Cylinder):
 
-  LED-based visualisation of a single cylinder moving through the 4-stroke cycle.
-
-- [Flywheel Hall Sensor Circuit](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor):
-
-  WIP Flywheel Hall sensor RPM calculation simulation using Hall sensor, servo motor with magnet disc and control buttons.
-
-- [CLI Crankshaft Simulator](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/Inline4_Crankshaft/CLI_Sim):
-
-  CLI visualisation of inline-4 crankshaft movement, using a 'virtual crankshaft' state machine model and custom libraries for state management and output generation.
+  ECU firmware-inspired ICE engine simulation prototype, ongoing project progressively merging engine sub-system modules.
   
-- [Arduino RGB LED + Photoresistor Experiments](https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/RGB_LED_PR+BUTTONS/Plotter_and_Hysteresis):
+**Current Modules:**
+- Live RPM Calculation: using servo "flywheel" and Hall sensor
+- LED Cylinder Visualisation: coloured breadboard LED matrix representing a single cylinder moving through the combustion cycle
+- Joystick Control: toggles previous 2 modules on/off, 2 speed settings
+- Data Interface: processes system data and feeds it to plotter module
+- Plotter: live telemetry
 
-  Exploring data visualisation via Serial Plotter, analog signal processing, PWM and hysteresis.
-- [Fitness Tracker v5](https://github.com/s-0-p-h-i-a/Fitness_Tracker/tree/main/Fitness_Tracker_v5):
-
-  First practice in learning C.
-
----
-**Planned:**
-- **Inline-4 Engine Control Simulation:** progressively merge separately developed cylinder, crankshaft, camshaft modules into a controller for a virtual inline-4 engine
-- **Wheatstone Bridge Emulation:** breadboard setup with resistors + sensor and Serial Plotter voltage reading
-- **State Machine Emulation:** using structs to model simple Mealy machine behaviour
-
+**Upcoming Modules:**
+- Crankshaft
+- Cylinder head:
+  - Double camshafts
+  - Valves
+  - Fuel injectors
+  - Spark plugs
 ---
 **Repos**
 - [ICE Engine Simulations](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations): Arduino and CLI simulations of ICE engine behaviour

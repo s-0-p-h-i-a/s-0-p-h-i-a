@@ -10,7 +10,7 @@ This profile contains:
 ---
 **FEATURED**
 
-- [ICE Engine Mini Prototype](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations/tree/main/Full_Engine):
+- [ICE Engine Mini Prototype](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulation):
 
   ECU firmware-inspired ICE engine simulation prototype, ongoing project progressively merging engine sub-system modules.
   
@@ -30,11 +30,10 @@ This profile contains:
   - Spark plugs
 ---
 **Repos**
-- [ICE Engine Simulations](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations): Arduino and CLI simulations of ICE engine behaviour
-- [Flywheel Hall Sensor](https://github.com/s-0-p-h-i-a/Flywheel_RPM_Hall_Sensor): Flywheel RPM Hall sensor simulation
+- [ICE Engine Simulation](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations): ECU firmware-inspired ICE engine control and behaviour simulation
+- [Engine Modules](https://github.com/s-0-p-h-i-a/Engine_Modules): ICE engine parts modules
 - [Arduino Practice Projects](https://github.com/s-0-p-h-i-a/Arduino_Practice): Small beginner projects to get started with microcontrollers
-- [Fitness Tracker](https://github.com/s-0-p-h-i-a/Fitness_Tracker): A console app that tracks workouts over 4 weeks and gives feedback based on frequency 
-- [Zodiac Calculator](https://github.com/s-0-p-h-i-a/Zodiac_Calculator): A console app that calculates zodiac signs from user birthdates
+- [Fitness Tracker](https://github.com/s-0-p-h-i-a/CLI_Apps): Console apps for C/C++ practice
 
 <!--- See my pinned repositories for ongoing projects!
 

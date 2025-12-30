@@ -1,50 +1,55 @@
-**Hi, I’m @s-0-p-h-i-a**
-- Interested in: computer science, maths, logic, sensors, microcontrollers, embedded automotive systems
-- Maths and CS B.Sc. student specialising in embedded systems and microprocessors
-- Currently self-learning: C/C++, Arduino Uno, electronics, sensors
+Hi, I’m Sophia (@s-0-p-h-i-a)
 
-This profile contains:
-- ICE engine/engine parts simulations to explore automotive embedded systems
-- Other Arduino and sensor projects
-- Repos for practice CLI C/C++ projects
+Mathematics & Computer Science B.Sc. student building hands-on projects to develop a solid foundation in embedded systems, with a focus on automotive applications and ECU-style firmware architecture.
+
+Learning Goals:
+- Clear system decomposition and module boundaries
+- Incremental complexity and validation
+- Understanding fundamentals before abstraction
+- Documentation of design decisions and debugging process
+
+### Current Focus
+- C / C++ for embedded-style programming
+- Arduino-based prototyping
+- Basic electronics, sensors, and actuators
+- Engine-related systems as a learning domain
 
 ---
-**FEATURED**
+## Featured Project
 
-- [ICE Engine Mini Prototype](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulation):
+### ICE Engine Mini Prototype  
+🔗 https://github.com/s-0-p-h-i-a/ICE_Engine_Simulation
 
-  ECU firmware-inspired ICE engine simulation prototype, ongoing project progressively merging engine sub-system modules.
-  
-**Current Modules:**
-- Live RPM Calculation: using servo "flywheel" and Hall sensor
-- LED Cylinder Visualisation: coloured breadboard LED matrix representing a single cylinder moving through the combustion cycle
-- Joystick Control: toggles previous 2 modules on/off, 2 speed settings
-- Data Interface: processes system data and feeds it to plotter module
-- Plotter: live telemetry
+An ECU firmware–inspired internal combustion engine simulation prototype.
 
-**Upcoming Modules:**
-- Crankshaft
-- Cylinder head:
-  - Double camshafts
-  - Valves
-  - Fuel injectors
-  - Spark plugs
+This project incrementally combines small engine sub-systems into a single, structured embedded-style application. The goal is not realism or performance, but learning how engine-related components interact, how data flows through a system, and how to design, test, and refactor firmware modules.
+
+**Current capabilities**
+- Live RPM calculation using a servo-driven “flywheel” and Hall sensor
+- LED-based cylinder state visualisation (combustion cycle)
+- Joystick-based runtime control (enable/disable modules, speed selection)
+- Data interface feeding live telemetry to a plotter
+
+**Planned extensions**
+- Crankshaft module
+- Cylinder head simulation (DOHC, valves, injectors, ignition)
+- Fault injection and diagnostics experiments
+
+The project includes progressive refactors, validation notes, and build/test plans to document learning and engineering trade-offs.
+
+Note: This project intentionally simplifies or abstracts several real-world engine and ECU aspects (e.g. servo-based flywheel for RPM edge generation) to focus on system structure, signal handling, and incremental validation.
+
 ---
-**Repos**
-- [ICE Engine Simulation](https://github.com/s-0-p-h-i-a/ICE_Engine_Simulations): ECU firmware-inspired ICE engine control and behaviour simulation
-- [Engine Modules](https://github.com/s-0-p-h-i-a/Engine_Modules): ICE engine parts modules
-- [Arduino Practice Projects](https://github.com/s-0-p-h-i-a/Arduino_Practice): Small beginner projects to get started with microcontrollers
-- [Fitness Tracker](https://github.com/s-0-p-h-i-a/CLI_Apps): Console apps for C/C++ practice
+## Other Repositories
 
-<!--- See my pinned repositories for ongoing projects!
+- **Engine Modules**  
+  https://github.com/s-0-p-h-i-a/Engine_Modules  
+  Isolated engine-related modules and experiments developed before integration into the main system.
 
+- **Arduino Practice Projects**  
+  https://github.com/s-0-p-h-i-a/Arduino_Practice  
+  Small hardware and sensor projects focused on fundamentals.
 
-💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... ... --->
-
-<!---
-s-0-p-h-i-a/s-0-p-h-i-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **CLI C / C++ Practice**  
+  https://github.com/s-0-p-h-i-a/CLI_Apps  
+  Console-based programs used to practice core language concepts and control flow.

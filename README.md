@@ -1,12 +1,15 @@
 Hi, I’m Sophia (@s-0-p-h-i-a)
 
-Mathematics & Computer Science B.Sc. student building hands-on projects to develop a solid foundation in embedded systems, with a focus on control systems and performance firmware architecture.
+Mathematics & Computer Science B.Sc. student building hands-on microcontroller projects to develop a solid foundation in embedded systems, with a focus on control systems, hardware/software integration and performance firmware architecture.
 
 ### Current Tools
 - C / C++
 - CLI compile+upload
 - Arduino, STM32
 - Basic electronics and breadboarding, sensors, actuators
+
+### Contact
+www.linkedin.com/in/ana-sophia-wdp
 
 ---
 ## Featured Projects
@@ -34,9 +37,9 @@ This project aims to incrementally combine small engine sub-system simulations i
 ### I/O Control + Data Logging System (WIP)
 https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Analog_IO%2BData_Logger
 
-A firmware-inspired control and logging system of 2 microcontrollers with UART communication.
+A firmware-inspired control and logging system with 2 microcontrollers connected via UART.
 
-Project goal: build performance firmware-like control system while implementing error handling and logging, and laying foundations for future fault injection
+Project goal: build performance firmware-like control system while implementing error handling and logging, and laying foundations for future fault injection.
 
 **I/O MCU**
 - Takes user/sensor input via joystick, potentiometer and water sensor and processes input data to control the colour of an RGB LED via PWM

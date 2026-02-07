@@ -50,7 +50,7 @@ Project goal: build performance firmware-like control system while implementing 
 **Current Status**
 - High-level system design complete
 - First code draft compiled
-- Code validation testing through progressive integration of different modules and functionalities
+- Ongoing validation testing through progressive integration of different modules and functionalities
 
 ---
 ## Other Repositories

@@ -1,31 +1,25 @@
 Hi, I’m Sophia (@s-0-p-h-i-a)
 
-Mathematics & Computer Science B.Sc. student building hands-on projects to develop a solid foundation in embedded systems, with a focus on automotive applications and ECU-style firmware architecture.
+Mathematics & Computer Science B.Sc. student building hands-on projects to develop a solid foundation in embedded systems, with a focus on control systems and performance firmware architecture.
 
-Learning Goals:
-- Clear system decomposition and module boundaries
-- Incremental complexity and validation
-- Understanding fundamentals before abstraction
-- Documentation of design decisions and debugging process
-
-### Current Focus
-- C / C++ for embedded-style programming
-- Arduino-based prototyping
-- Basic electronics, sensors, and actuators
-- Engine-related systems as a learning domain
+### Current Tools
+- C / C++
+- CLI compile+upload
+- Arduino, STM32
+- Basic electronics and breadboarding, sensors, actuators
 
 ---
-## Featured Project
+## Featured Projects
 
 ### ICE Engine Mini Prototype  
-🔗 https://github.com/s-0-p-h-i-a/ICE_Engine_Simulation
+https://github.com/s-0-p-h-i-a/ICE_Engine_Simulation
 
 An ECU firmware–inspired internal combustion engine simulation prototype.
 
-This project incrementally combines small engine sub-systems into a single, structured embedded-style application. The goal is not realism or performance, but learning how engine-related components interact, how data flows through a system, and how to design, test, and refactor firmware modules.
+This project aims to incrementally combine small engine sub-system simulations into a single control system. The goal is not realism or performance, but learning how engine-related components interact, how data flows through a system, and how to design, test, and refactor firmware modules.
 
 **Current capabilities**
-- Live RPM calculation using a servo-driven “flywheel” and Hall sensor
+- Live RPM calculation using a Hall sensor and servo-driven “flywheel” with magnet for edge signal generation
 - LED-based cylinder state visualisation (combustion cycle)
 - Joystick-based runtime control (enable/disable modules, speed selection)
 - Data interface feeding live telemetry to a plotter
@@ -33,11 +27,30 @@ This project incrementally combines small engine sub-systems into a single, stru
 **Planned extensions**
 - Crankshaft module
 - Cylinder head simulation (DOHC, valves, injectors, ignition)
+- Communication with data logger MCU
 - Fault injection and diagnostics experiments
 
-The project includes progressive refactors, validation notes, and build/test plans to document learning and engineering trade-offs.
+---
+### I/O Control + Data Logging System (WIP)
+https://github.com/s-0-p-h-i-a/Arduino_Practice/tree/main/Analog_IO%2BData_Logger
 
-Note: This project intentionally simplifies or abstracts several real-world engine and ECU aspects (e.g. servo-based flywheel for RPM edge generation) to focus on system structure, signal handling, and incremental validation.
+A firmware-inspired control and logging system of 2 microcontrollers with UART communication.
+
+Project goal: build performance firmware-like control system while implementing error handling and logging, and laying foundations for future fault injection
+
+**I/O MCU**
+- Takes user/sensor input via joystick, potentiometer and water sensor and processes input data to control the colour of an RGB LED via PWM
+- Error handling system uses error codes to log sub-system states
+- Produces periodic system snapshots with I/O data and error codes, and transmits them to data logger MCU via UART
+
+**Data Logger MCU**
+- Receives TX MCU system snapshots
+- Processes received data and displays system reports on serial plotter and I/O data as LED matrix visualisation
+
+**Current Status**
+- High-level system design complete
+- First code draft compiled
+- Code validation testing through progressive integration of different modules and functionalities
 
 ---
 ## Other Repositories
